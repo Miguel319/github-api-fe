@@ -1,9 +1,5 @@
 {
   "name": "github-api-implementation",
-  "engines": {
-    "node": "19.0.0",
-    "npm": "8.19.2"
-  },
   "private": true,
   "scripts": {
     "build": "qwik build",
